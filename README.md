@@ -149,15 +149,23 @@ Complete Chess Game in Java with GUI, Minimax AI and advanced chess rules.
 
 # 📫 Contact Me
 
+# 📫 Contact Me
+
 <p align="center">
 
 <a href="mailto:shreya12306666singh@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
 </a>
 
-</p>
+<a href="https://linkedin.com/in/shreya-singh">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
----
+<a href="https://shreya-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
+</p>
 
 # ⚡ Fun Fact
 
