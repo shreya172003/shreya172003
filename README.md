@@ -1,82 +1,172 @@
 <h1 align="center">Hi 👋, I'm Shreya</h1>
-<h3 align="center">Software Developer | Cloud & DevOps Enthusiast | Java Developer</h3>
+
+<h3 align="center">
+Software Developer | Cloud & DevOps Enthusiast | Java Developer
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreya172003&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 B.Tech CSE Student  
 💻 Passionate about Cloud Computing, DevOps, Java & Full Stack Development  
 🌱 Currently learning AWS, MERN Stack, System Design & Advanced DSA  
 ⚡ Building real-world projects using Java, AWS and modern web technologies  
-🎯 Preparing for placements and software engineering roles
+🎯 Preparing for placements and software engineering roles  
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p align="center">
 
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript,react,nodejs,express,mongodb,mysql,aws,docker,git,github,html,css,tailwind,vscode,idea" />
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</p>
 
 ---
 
-## 🏆 Featured Projects
+# 🏆 Featured Projects
 
-### 🔹 DSA Visualizer
+## 🔹 DSA Visualizer
 Java Swing application to visualize sorting, graph and tree algorithms in real time.
 
-### 🔹 AWS Feedback Collection System
+### Features
+- Sorting Algorithm Visualization
+- Graph Traversal Animation
+- Tree Visualizations
+- Real-Time GUI using Swing
+
+---
+
+## 🔹 AWS Feedback Collection System
 Cloud-based application using AWS Lambda, S3, API Gateway and DynamoDB.
 
-### 🔹 ShortestPathIndia
+### Features
+- Serverless Architecture
+- Secure Cloud Storage
+- API Integration
+- Real-Time Feedback Collection
+
+---
+
+## 🔹 ShortestPathIndia
 Java GUI project implementing Dijkstra Algorithm on Indian states map.
 
-### 🔹 Chess Game with AI
-Complete Chess Game in Java with GUI, Minimax AI, move highlighting and advanced chess rules.
+### Features
+- Interactive Map UI
+- Dijkstra Visualization
+- Real-Time Path Animation
+- GUI-Based Learning Tool
 
 ---
 
-## 📊 GitHub Stats
+## 🔹 Chess Game with AI
+Complete Chess Game in Java with GUI, Minimax AI and advanced chess rules.
 
-![](https://github-readme-stats.vercel.app/api?username=shreya172003&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shreya172003&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya172003&layout=compact&theme=tokyonight)
-
----
-
-## 📚 Currently Learning
-
-- Advanced DSA & Competitive Programming
-- AWS Cloud & DevOps
-- MERN Stack Development
-- System Design & Scalable Applications
-- Building production-ready full stack projects
+### Features
+- AI Opponent
+- Move Highlighting
+- Undo/Redo
+- Checkmate Detection
+- Castling & En Passant
 
 ---
 
-## 📫 Connect With Me
+# 💡 Problem-Solving Progress
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+## 🧠 LeetCode Stats
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/SfSjkmwA1p?theme=dark&font=Karma&ext=heatmap" />
+
+</p>
 
 ---
 
-⭐ Always learning, building and improving.
+# 📊 GitHub Overview
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shreya172003&show_icons=true&theme=tokyonight" height="180em"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya172003&theme=tokyonight" height="180em"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya172003&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/shreya172003/shreya172003/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+✅ Advanced DSA & Competitive Programming  
+✅ AWS Cloud & DevOps  
+✅ MERN Stack Development  
+✅ System Design & Scalable Applications  
+✅ Building production-ready full stack projects  
+✅ Preparing for placements at top tech companies  
+
+---
+
+# 📈 Problem Solving
+
+- Solved DSA problems across platforms like:
+  - LeetCode
+  - GeeksForGeeks
+  - HackerRank
+  - CodeForces
+
+- Strong understanding of:
+  - Arrays
+  - Linked Lists
+  - Trees
+  - Graphs
+  - Dynamic Programming
+  - Recursion
+  - Backtracking
+
+---
+
+# 📫 Contact Me
+
+<p align="center">
+
+<a href="mailto:shreya12306666singh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+💻 I love building projects that combine real-world problem solving with scalable software engineering.
+
+---
+
+<p align="center">
+
+⭐ From <a href="https://github.com/shreya172003">shreya172003</a>
+
+</p>
