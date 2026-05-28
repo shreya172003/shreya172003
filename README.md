@@ -107,15 +107,6 @@ Complete Chess Game in Java with GUI, Minimax AI and advanced chess rules.
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/shreya172003/shreya172003/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
 
 # 📚 Currently Learning
 
