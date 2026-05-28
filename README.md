@@ -140,8 +140,6 @@ Complete Chess Game in Java with GUI, Minimax AI and advanced chess rules.
 
 # 📫 Contact Me
 
-# 📫 Contact Me
-
 <p align="center">
 
 <a href="mailto:shreya12306666singh@gmail.com">
